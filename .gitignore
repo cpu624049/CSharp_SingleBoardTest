@@ -1,0 +1,50 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# Visual Studio temporary files
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+
+# MSTest test Results
+TestResult*
+*.trx
+*.coverage
+*.coveragexml
+
+# NCrunch
+*_ncrunch_*
+.*crunch*.local.xml
+
+# Build Logs
+*.log
+msbuild.log
+
+# OS Files
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# User Secrets (ASP.NET Core)
+**/secrets.json
+*.secret.json
